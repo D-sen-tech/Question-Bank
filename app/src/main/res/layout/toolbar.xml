@@ -28,7 +28,7 @@
         android:layout_width="40dp"
         android:layout_height="40dp"
         android:layout_marginLeft="40dp"
-        tools:srcCompat="@drawable/tit_logo" />
+        android:src="@drawable/tit_logo" />
 
     <TextView
         android:layout_width="200dp"
